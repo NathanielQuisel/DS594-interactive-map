@@ -1,0 +1,6 @@
+pandas
+pandas_gbq
+google-api-core==2.8.1
+google-auth==2.2.0
+google-cloud-bigquery==2.26.0
+matplotlib==3.3.2
